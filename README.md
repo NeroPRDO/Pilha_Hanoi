@@ -51,6 +51,7 @@ Ao rodar o programa, você verá um menu com as seguintes opções:
 2. Simular Torre de Hanoi
 0. Sair
 Escolha:
+
 Opção 1: Testar Pilha de Caracteres
 Permite empilhar e desempilhar letras ('A', 'B', 'C', 'D'). Você verá o estado da pilha após empilhar e ao desempilhar.
 
