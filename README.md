@@ -32,13 +32,15 @@ Use um compilador C (ex.: `gcc`) para compilar o projeto.
 No terminal, execute:
 
 ```bash```
+
 gcc Main.c Hanoi.c Pilha.c -o hanoi_pilha
 Isso irá gerar um executável chamado hanoi_pilha.
 
 ▶️ Execução
 Após compilar, execute o programa:
 
-bash
+```bash```
+
 ./hanoi_pilha
 
 🚀 Funcionalidades
